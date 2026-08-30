@@ -1,0 +1,55 @@
+#buttons{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+#topStudent{
+  color:green;
+  font-size: 20px;
+}
+#passedStudents{
+ font-size: 20px;
+ color:#CB997E;
+}
+#below40{
+  font-size: 20px;
+  color:#6B705C;
+}
+#allStudents{
+   font-size: 20px;
+   color:blue;
+}
+#highScorers{
+  font-size: 20px;
+  color:purple;
+}
+#statistics{
+  font-size: 20px;
+  color:#C9184A;
+}
+#heading{
+  color:#800E13;
+}
+#result{
+  white-space: pre-line;
+  font-size: 15px;
+}
+#inputs{
+  font-size:20px;
+  padding:8px;
+}
+#names{
+  border-radius:15px;
+  border-color: gray;
+}
+#marks{
+  border-radius:15px;
+  border-color:gray;
+}
+#add{
+  padding:5px;
+  border-radius:5px;
+}
+#result{
+  margin-top:20px;
+}
